@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "activeHousing\\": "src"
+        }
+    }
+    ,"require": {
+        "curl/curl": "^2.4",
+        "phpunit/phpunit": "^9.5"
+    }
+}
